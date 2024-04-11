@@ -1,6 +1,5 @@
-# ЭТО ПРИМЕР, ЗДЕСЬ ДОЛЖНЫ БЫТЬ ВАШИ ДАННЫЕ ПО ИТОГУ РАБОТЫ ФУНКЦИИ
-
-Have visited: Aktau, Beijing, Dushanbe, Irkutsk, Kiev, Luxembourg, Minsk, Moscow, New York, Saint Petersburg, Tbilisi, Vladikavkaz
-Want to visit: Almaty, Cairo, Kursk, Levan, Minsk, Nizhny Tagil, Orel, Tokyo
-No one has been to: Almaty, Cairo, Kursk, Levan, Nizhny Tagil, Orel, Tokyo
-In the end, we will go to: Almaty
+"Информация о городах людей, имена которых начинаются на: L "
+Уже были в: ,"Aktau, Beijing, Dushanbe, Irkutsk, Kiev, Luxembourg, Minsk, Moscow, New York, Saint Petersburg, Tbilisi, Vladikavkaz"
+Хотят побывать в: ,"Almaty, Cairo, Kursk, Levan, Minsk, Nizhny Tagil, Orel, Tokyo"
+Еще не были в: ,"Almaty, Cairo, Kursk, Levan, Nizhny Tagil, Orel, Tokyo"
+Следующий город: ,Almaty
